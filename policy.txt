@@ -1,0 +1,24 @@
+Golden Cauldron. Privacy policy
+Last update date: September 4 2023
+
+1. General provisions
+This privacy policy explains how we collect, use and protect the personal information of users of our application. We strive to ensure your confidentiality and reliability of the information you give us.
+
+2. Collection and use of information
+2.1 Advertising ID
+Our app can collect advertising ID of your device for statistical purposes and display advertisements. This ID is not related to personal information and does not allow you to identify in person. We use this ID to improve advertising efficiency and track user interaction with advertising companies.
+
+2.2 Facebook SDK
+Our application uses Facebook SDK to ensure data exchange features and authentication through Facebook. When using this SDK Facebook, it can collect information from your profile on Facebook according to their privacy policy. We do not have direct access to this information and do not store it on our servers.
+
+2.3 OneSignal SDK
+We use OneSignal SDK to send messages and notifications to users of our application. To do this, SDK is gathering an advertising identifier and some information about the application with the application. This information is used solely to send notifications and improve user experience.
+
+3. Data protection
+We apply all possible measures to protect personal information of users. We use modern encryption methods and data security technologies.
+
+4. Changes in Privacy Policy
+This privacy policy can be updated from time to time. Please check this document periodically to obtain the latest information about our privacy practices.
+
+5. Communication
+If you have any questions or inquiries about this privacy policy please contact us at fury5818@gmail.com.
